@@ -3,9 +3,9 @@
 
 <p align="left">  </p>
 
-- 🔭 I’m currently working on [**Momentum**](https://github.com/TS-Minesort/Prometheus)
+- 🔭 I’m currently working on [**Prometheus**](https://github.com/TS-Minesort/Prometheus)
 
-- 📫 You can reach me via [**julianimhof.de**](https://minesort.de)
+- 📫 You can reach me via [**minesort.de**](https://minesort.de)
 
 I don't like it when people who have no idea about crypto talk to me about it.
 
@@ -17,4 +17,4 @@ I don't like it when people who have no idea about crypto talk to me about it.
   <img src="https://github-readme-stats.vercel.app/api?username=qeinz&show_icons=true&theme=nord" alt="qeinz" height="180px"/>
 </p>
 
-<p>ᴵ ᵘˢᵉ ᴬʳᶜʰ ᵇᵗʷ</p>
+<p>ɪ ᴅᴏ ɴᴏᴛ ʟɪᴋᴇ ᴄᴏғғᴇᴇ</p>
