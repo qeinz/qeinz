@@ -12,5 +12,3 @@ I don't like it when people who have no idea about crypto talk to me about it.
 
   <img src="https://github-readme-stats.vercel.app/api?username=qeinz&show_icons=true&theme=nord" alt="qeinz" height="180px"/>
 </p>
-
-<p>ɪ ᴅᴏ ɴᴏᴛ ʟɪᴋᴇ ᴄᴏғғᴇᴇ</p>
