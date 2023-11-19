@@ -3,8 +3,6 @@
 
 <p align="left">  </p>
 
-I don't like it when people who have no idea about crypto talk to me about it.
-
 <br/>
 
 <p align="center">
